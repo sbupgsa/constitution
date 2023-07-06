@@ -217,7 +217,7 @@ All candidates may submit a statement to the Director of Marketing to be publish
 
 #### SUBSECTION C: VOTING
 
-Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31st of a given year.
+Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<suo>st</sup> of a given year.
 If a quorum is not met, then the Historian will conduct an electronic election within one week.
 Voting shall be conducted by secret ballot.
 The mechanism for deciding an election shall be determined on a case by case basis.
@@ -240,7 +240,7 @@ The outgoing Board of Directors shall, after the election, provide sufficient tr
 A term shall be defined as a period of time one year in duration (except for the Historian position which shall last three years) during which an elected member of the Board of Directors shall hold their position.
 No member of the Executive Committee shall hold the same position for more than two consecutive terms.
 Any elected member of the Board of Directors who does not sit on the Executive Committee may hold office for as many consecutive terms as they are elected.
-A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31st of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
+A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
 
 ### Section 5: Assignment upon Removal, Resignation or Vacancy
 
