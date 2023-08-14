@@ -30,7 +30,6 @@ In receiving annual recognition through the Department of Student Engagement and
 The organization is affiliated only with SBU, wherein it is housed, the Department, whose graduate students shall be the primary beneficiaries of its activities, and the Graduate Student Organization (henceforth &ldquo;GSO&rdquo;), through whom the organization is funded.
 The organization remains open to adjoining with larger bodies, should it be mutually advantageous to both entities, advantageous only to the organization, or advantageous to its members.
 
-
 ## ARTICLE IV: MEMBERSHIP
 
 ### Section 1: Qualifications
@@ -63,7 +62,6 @@ All other members shall be granted non-voting status and, as such, will not have
 ## ARTICLE V: PARLIAMENTARY AUTHORITY
 
 The organization recognizes Robert&rsquo;s Rules of Order Newly Revised as its parliamentary authority and shall thus consult it to conduct all business except when in contradiction with any ordinances in this Constitution.
-
 
 ## ARTICLE VI: LEADERSHIP
 
@@ -145,7 +143,6 @@ When possible, the Historian should have previously held at least one other posi
 A new Historian will be elected in a special election called by the President if a vacancy occurs is in this office.
 The Historian may also be referred to as the Bard.
 
-
 #### SUBSECTION F: DIRECTOR OF EXTERNAL AFFAIRS
 
 The Director of External Affairs is responsible for maintaining the organization&rsquo;s email address, and all designated contact with entities outside of the organization and its affiliates.
@@ -201,7 +198,6 @@ The Advisor to the organization shall be a faculty member within the Department 
 
 ### Section 4: Election
 
-
 #### SUBSECTION A: NOMINATION
 
 Any member of the organization may submit nominations to the Historian via email for a voting member (as defined in [Article IV](#article-iv-membership)) to be elected to the Board of Directors.
@@ -233,7 +229,6 @@ Should the Executive Committee deem the second choice candidate unfit to serve, 
 #### SUBSECTION D: TRANSFERRAL OF POWER
 
 The outgoing Board of Directors shall, after the election, provide sufficient training and guidance to the incoming Board of Directors.
-
 
 #### SUBSECTION E: TERM LIMITS
 
@@ -382,7 +377,6 @@ This person shall serve until a chair of the Quality of Life Committee accepts t
 ## ARTICLE XII: DISBURSAL OF ASSETS IN THE EVENT THE GROUP BECOMES DEFUNCT
 
 Should the organization cease to maintain activity under the standards established by the SBU Office of Student Engagement and Activities (therefore becoming defunct), all assets and accrued funds of the organization shall revert to the GSO.
-
 
 ## ARTICLE XIII: AMENDING THE CONSTITUTION
 
