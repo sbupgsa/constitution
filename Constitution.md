@@ -30,7 +30,6 @@ In receiving annual recognition through the Department of Student Engagement and
 The organization is affiliated only with SBU, wherein it is housed, the Department, whose graduate students shall be the primary beneficiaries of its activities, and the Graduate Student Organization (henceforth &ldquo;GSO&rdquo;), through whom the organization is funded.
 The organization remains open to adjoining with larger bodies, should it be mutually advantageous to both entities, advantageous only to the organization, or advantageous to its members.
 
-
 ## ARTICLE IV: MEMBERSHIP
 
 ### Section 1: Qualifications
@@ -66,7 +65,6 @@ All other members shall be granted non-voting status and, as such, will not have
 ## ARTICLE V: PARLIAMENTARY AUTHORITY
 
 The organization recognizes Robert&rsquo;s Rules of Order Newly Revised as its parliamentary authority and shall thus consult it to conduct all business except when in contradiction with any ordinances in this Constitution.
-
 
 ## ARTICLE VI: LEADERSHIP
 
@@ -148,7 +146,6 @@ When possible, the Historian should have previously held at least one other posi
 A new Historian will be elected in a special election called by the President if a vacancy occurs is in this office.
 The Historian may also be referred to as the Bard.
 
-
 #### SUBSECTION F: DIRECTOR OF EXTERNAL AFFAIRS
 
 The Director of External Affairs is responsible for maintaining the organization&rsquo;s email address, and all designated contact with entities outside of the organization and its affiliates.
@@ -204,7 +201,6 @@ The Advisor to the organization shall be a faculty member within the Department 
 
 ### Section 4: Election
 
-
 #### SUBSECTION A: NOMINATION
 
 Any member of the organization may submit nominations to the Historian via email for a voting member (as defined in [Article IV](#article-iv-membership)) to be elected to the Board of Directors.
@@ -220,7 +216,7 @@ All candidates may submit a statement to the Director of Marketing to be publish
 
 #### SUBSECTION C: VOTING
 
-Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31st of a given year.
+Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<suo>st</sup> of a given year.
 If a quorum is not met, then the Historian will conduct an electronic election within one week.
 Voting shall be conducted by secret ballot.
 The mechanism for deciding an election shall be determined on a case by case basis.
@@ -237,13 +233,12 @@ Should the Executive Committee deem the second choice candidate unfit to serve, 
 
 The outgoing Board of Directors shall, after the election, provide sufficient training and guidance to the incoming Board of Directors.
 
-
 #### SUBSECTION E: TERM LIMITS
 
 A term shall be defined as a period of time one year in duration (except for the Historian position which shall last three years) during which an elected member of the Board of Directors shall hold their position.
 No member of the Executive Committee shall hold the same position for more than two consecutive terms.
 Any elected member of the Board of Directors who does not sit on the Executive Committee may hold office for as many consecutive terms as they are elected.
-A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31st of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
+A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
 
 ### Section 5: Assignment upon Removal, Resignation or Vacancy
 
@@ -385,7 +380,6 @@ This person shall serve until a chair of the Quality of Life Committee accepts t
 ## ARTICLE XII: DISBURSAL OF ASSETS IN THE EVENT THE GROUP BECOMES DEFUNCT
 
 Should the organization cease to maintain activity under the standards established by the SBU Office of Student Engagement and Activities (therefore becoming defunct), all assets and accrued funds of the organization shall revert to the GSO.
-
 
 ## ARTICLE XIII: AMENDING THE CONSTITUTION
 
