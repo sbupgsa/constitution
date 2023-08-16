@@ -1,9 +1,9 @@
-# CONSTITUTION
+# \[DRAFT\] CONSTITUTION
 
 Physics Graduate Student Association at Stony Brook University
 
-Last Amended: 04/05/2017\
-Last Ratified: XX/XX/2017
+Last Amended: \[DRAFT\]\
+Last Ratified: \[DRAFT\]
 
 ## PREAMBLE
 
@@ -23,6 +23,8 @@ The organization shall aim to provide a voice and enable due democratic process 
 Finally, the organization shall strive to create and maintain a welcoming environment to facilitate the acclamation of new students to the Department and ensure their continued success.
 
 The organization, as a registered organization at SBU, is committed to promoting a safe and vibrant campus community.
+The leaders and members of the organization also agree to abide by the Stony Brook University Code of Student Responsibility, University policies, and Federal, New York State, and Local laws.
+Therefore, the rules, regulations, and policies of Stony Brook University shall supersede any terms or processes outlined in this constitution.
 In receiving annual recognition through the Department of Student Engagement and Activities, no individual or group affiliated with the organization will take any action or create a situation which recklessly or intentionally endangers mental or physical health or involves the forced consumption of liquor or drugs for the purpose of initiation into or affiliation with the organization.
 
 ## ARTICLE III: AFFILIATIONS
