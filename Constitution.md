@@ -20,7 +20,7 @@ The organization may also be referred to by the initialism &ldquo;PGSA.&rdquo; S
 The organization serves to promote interactions between graduate students in the Department and those interested in interacting with its community.
 The organization acts as a forum wherein students may discuss ideas physical, political, bureaucratic, or otherwise in nature, as they pertain to them, focusing specifically on problems and potential resolutions.
 The organization shall aim to provide a voice and enable due democratic process to resolve issues pertaining to graduate students within the Department.
-Finally, the organization shall strive to create and maintain a welcoming environment to facilitate the acclamation of new students to the Department and ensure their continued success.
+Finally, the organization shall strive to create and maintain a welcoming environment to facilitate the acclimation of new students to the Department and ensure their continued success.
 
 The organization, as a registered organization at SBU, is committed to promoting a safe and vibrant campus community.
 The leaders and members of the organization also agree to abide by the Stony Brook University Code of Student Responsibility, University policies, and Federal, New York State, and Local laws.
