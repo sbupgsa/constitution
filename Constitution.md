@@ -16,7 +16,8 @@ To ensure clarity in the procedures under which the organization shall operate, 
 ## ARTICLE I: NAME
 
 The organization whose rights and operating procedures are herein defined shall be referred to as the Physics Graduate Student Association.
-The organization may also be referred to by the initialism &ldquo;PGSA.&rdquo; Should the organization become affiliated with a larger entity, the name may be modified to clarify that the organization is such an affiliate.
+The organization may also be referred to by the initialism &ldquo;PGSA.&rdquo;
+Should the organization become affiliated with a larger entity, the name may be modified to clarify that the organization is such an affiliate.
 
 ## ARTICLE II: PURPOSE
 
@@ -419,8 +420,7 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 
 #### Committee on Diversity
 
-Charge: Investigating potential methods of maintaining or increasing diversity, as it is defined in Title IX of the United States Education Amendments of 1972 (20 U.S.C.
-&sect;&sect; 1681&ndash;1688), within the Department that could be at the behest of the graduate students and advocating proactively to implement such methods.
+Charge: Investigating potential methods of maintaining or increasing diversity, as it is defined in Title IX of the United States Education Amendments of 1972 (20 U.S.C. &sect;&sect; 1681&ndash;1688), within the Department that could be at the behest of the graduate students and advocating proactively to implement such methods.
 This committee is expected to maintain contact with the Departmental Committee on Diversity.
 
 Chair: Any voting member.
