@@ -1,9 +1,9 @@
-# CONSTITUTION
+# \[DRAFT\] CONSTITUTION
 
 Physics Graduate Student Association at Stony Brook University
 
-Last Amended: 04/05/2017\
-Last Ratified: XX/XX/2017
+Last Amended: \[DRAFT\]\
+Last Ratified: \[DRAFT\]
 
 ## PREAMBLE
 
@@ -277,12 +277,26 @@ In order to rescind the dissolution of a committee, the committee in question mu
 
 ### Section 1: General Body Meetings
 
-Meetings of the general membership body are to occur at least once monthly, at times decided by the Board of Directors.
-Business from an agenda devised by the President with consultation, where necessary, from the Board of Directors shall be discussed in general membership body meetings.
-A quorum of the active members must be met in order for any business to be brought to the table.
-All members shall be informed of and provided the agenda and prior notice for a given meeting of the general membership body no later than one academic day prior to the scheduled meeting.
-The parliamentary authority of the organization shall be invoked when necessary to ensure that meetings run smoothly and efficiently.
-General body meetings shall be chaired by the President unless it has been announced that someone else shall chair a given meeting.
+#### SUBSECTION A: Regular Meetings
+
+The regular meetings of the organization shall be held, during the first week of each month unless otherwise ordered by the organization.
+
+#### SUBSECTION B: Annual Meetings
+
+The regular meeting during the first week of May shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and or any other business that may arise.
+
+#### SUBSECTION C: Special Meetings
+
+Special meetings may be called by the President or by the Board of Directors and shall be called upon the written request of five members of the organization.
+The purpose of the meeting shall be stated in the call, which shall be sent to all members at least one week before the meeting.
+
+#### SUBSECTION D: Quorum
+
+The number of voting members required to reach quorum for the general body of the organization shall be the smallest number greater than or equal to fifteen percent of the graduate enrollment of the Department or twenty-five, whichever is smaller.
+
+#### SUBSECTION E: Notice
+
+All members shall be informed of and provided the agenda and prior notice for a given meeting of the general membership body no later than one week prior to the scheduled meeting.
 
 ### Section 2: Regular Events
 
