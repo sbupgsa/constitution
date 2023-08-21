@@ -224,7 +224,7 @@ The presiding officer (the senior-most member, according to the alphabetical ord
 In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Board of Directors.
 Should the Board of Directors deem the second choice candidate unfit to serve, the position will be offered to the third person, or considered vacant if necessary.
 
-#### SUBSECTION D: TRANSFERRAL OF POWER
+#### SUBSECTION D: TRANSFERAL OF POWER
 
 The outgoing Board of Directors shall, after the election, provide sufficient training and guidance to the incoming Board of Directors.
 
