@@ -382,33 +382,17 @@ Should the organization cease to maintain activity under the standards establish
 
 ## ARTICLE XIII: AMENDING THE CONSTITUTION
 
-### Section 1: Proposal
+Amendments to the Constitution may be submitted to the Secretary in writing by any member of the organization.
 
-To propose an amendment to the Constitution, a member must inform in writing the Secretary.
-The body of the email need not state the amendment in its final form, but must include the intention of the amendment, an explanation of why the amendment would benefit the organization, temporary language in which the amendment may be conveyed, and the name of the proposing member.
+An amendment to the Constitution may not be voted upon unless all members of the organization are notified in writing at least one week in advance of said vote.
+Said notice must include the proposed text of the amendment.
 
-### Section 2: Consideration
+A two-thirds majority vote is necessary for the passage of an amendment.
+The result of the vote must be reflected in the meeting minutes.
+A quorum is required.
 
-At the final general body meeting of the academic year, all proposed amendments must be brought forth by members of the general body and will be discussed.
-Given the nature of the agenda of such a meeting, all members shall be notified of this meeting at least one business week prior to its scheduled date.
-After an amendment has been sufficiently discussed, as declared by the President, the general body will vote on whether or not the amendment shall proceed to discussion among the Board of Directors.
-In order to move forward, at least two-thirds of the general membership body must agree that the amendment is a worthy addition to the Constitution.
-
-At the final meeting of the Board of Directors, all amendments receiving two-thirds support of the general body shall be discussed further and modified into their final forms.
-At minimum, two-thirds of the voting members of the Board of Directors and the Advisor must agree upon the phrasing of an amendment as well as on its stance as a worthy addition to the Constitution for the amendment to become a part of the draft of the new Constitution.
-When an amendment has been approved, it, as well as any text overwritten, shall be recorded in [Appendix A](#appendix-a-amendments-to-the-constitution) of this Constitution, in addition to its inclusion within the text of the Constitution.
-
-## ARTICLE XIV: RATIFYING THE CONSTITUTION
-
-A draft of the Constitution requires a simple majority (50% +1 vote) of a quorum of the general body in order to be ratified.
-Should this threshold be met, the draft shall be recognized officially as the new Constitution of the organization.
-This vote may be held electronically.
-
-## ARTICLE XV: REVIEWING THE CONSTITUTION
-
-The Constitution shall be reviewed and updated annually at the final meeting of the Board of Directors of the academic year.
-The final general body meeting must occur prior to the meeting at which the Constitution is reviewed so that all members may contribute and propose amendments to the Constitution.
-After the Constitution has been duly reviewed and ratified, it must be submitted to the SBU Office of Student Engagement and Activities.
+Upon passage of an amendment, it shall be submitted to Student Engagement \& Activities for approval.
+If so approved, the amendment, as well as any text overwritten, shall be recorded in [Appendix A](#appendix-a-amendments-to-the-constitution) of this Constitution, in addition to its inclusion within the text of the Constitution.
 
 ## APPENDICES
 
