@@ -68,6 +68,11 @@ The organization recognizes Robert&rsquo;s Rules of Order Newly Revised as its p
 
 ## ARTICLE VI: LEADERSHIP
 
+The Board of Directors shall have general supervision of the affairs of the Organization between its business meetings, fix the hour and place of meetings, make recommendations to the organization, and perform such other duties as are specified in this Constitution.
+The Board of Directors and the officers of the organization shall only possess those powers delegated to them by the general body through this Constitution or through a resolution of the general body.
+The general body shall not delegate powers to the Board of Directors, to individual officers, or to committees that the parliamentary authority prohibits it from so delegating.
+The general body, being the source of all powers and authorities of the Board of Directors, the officers, and the committees, shall reserve the right to overrule decisions of said entities in accordance with the parliamentary authority.
+
 ### Section 1: Eligibility
 
 All candidates for a position in the Board of Directors (elected or ex officio) must be a voting member with a minimum cumulative grade point average (henceforth &ldquo;GPA&rdquo;) of 3.0 on a 4.0 scale unless otherwise specified.
@@ -81,7 +86,6 @@ The latest edition of the handbook can be found [here](http://studentaffairs.sto
 
 #### SUBSECTION A: BOARD OF DIRECTORS
 
-The governing body of the organization is called the Board of Directors.
 The Board of Directors shall be comprised of at least four, but no more than ten, voting members and at minimum four non-voting, ex officio members.
 The right to vote shall be granted on the basis of whether or not the individual in question has been elected to their position from among the entirety of the constituency of the organization and whether or not the position to which the individual has been elected serves to connect the organization to a separate entity.
 The members of the Board of Directors are the President, Vice President, Treasurer, Secretary, Historian, Director of External Affairs, Director of Marketing, Director of Outreach, Underclassperson Member-at-Large, Upperclassperson Member-at-Large, Chairs of all Committees of the organization, the Senators of the GSO who represent the Department, at least one student member of each committee of the Department, and the Advisor.
@@ -105,13 +109,13 @@ Though ex officio members are not provided a vote in matters decided by the Boar
 The President shall be the official representative of the organization.
 The President shall have the power to convene and preside over the meetings of the Board of Directors and the general membership and prepare the agenda for said meetings.
 By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless their vote will break a tie.
-The President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
+The President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the general body.
 
 #### SUBSECTION B: VICE PRESIDENT
 
 The Vice President is charged with assisting the President in any reasonable task at the behest of the President.
 The Vice President shall be required to see that standing committee chairpersons are fulfilling their duties.
-The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
+The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the general body.
 If the President is unable to perform their duties, (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of President.
 The President or the Advisor may, when necessary, temporarily grant the powers bestowed upon the President to the Vice President.
 
@@ -119,7 +123,7 @@ The President or the Advisor may, when necessary, temporarily grant the powers b
 
 The Treasurer shall keep detailed record of all monies allotted to and raised by the organization.
 The Treasurer shall also submit all payment requests.
-The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
+The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the general body.
 The Treasurer shall assume the position of Vice President in the event that the Vice President is unable to perform their duties (due to leave of absence, resignation, or assumption of Presidency).
 A new Treasurer will be elected in a special election called by the President if a vacancy occurs in this office.
 The President, Vice President, or the Advisor may, when necessary, temporarily grant the powers bestowed upon the Vice President to the Treasurer.
