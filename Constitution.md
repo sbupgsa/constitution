@@ -102,7 +102,7 @@ Though ex officio members are not provided a vote in matters decided by the Boar
 
 #### SUBSECTION A: PRESIDENT
 
-The President shall be the official representative of the organization; they shall also be a non-voting ex-officio member of all committees of the organization.
+The President shall be the official representative of the organization.
 The President shall have the power to convene and preside over the meetings of the Board of Directors and the general membership and prepare the agenda for said meetings.
 By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless his/her vote will break a tie.
 The President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
@@ -168,11 +168,11 @@ The Underclassperson Member-at-Large will chair the Committee on Master&rsquo;s 
 
 The Upperclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status of G5 on the Board of Directors and advocating on their behalf.
 The Upperclassperson Member-at-Large must have an enrollment status of G5.
-The Upperclassperson Member-at-Large will chair the Committee on Engagement (enumerated in Appendix B).
+The Upperclassperson Member-at-Large will chair the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-committees)).
 
 #### SUBSECTION K: COMMITTEE CHAIRS
 
-All chairs of committees formed by members of the organization (as defined in [Article VII](#article-vii-committees)) shall be members ex officio of the Board of Directors unless otherwise specified.
+All chairs of committees of the organization (as defined in [Article VII](#article-vii-committees)) shall be members ex officio of the Board of Directors unless otherwise specified.
 Should a committee be comprised of at least six members, then the chair of the committee, as per the parliamentary authority, shall not vote on a motion unless his/her vote breaks a tie.
 Committee chairs may also hold a voting position in the Board of Directors.
 
@@ -247,27 +247,27 @@ Should the President, Vice President, Treasurer, and Secretary positions all fal
 
 ## ARTICLE VII: COMMITTEES
 
-### Section 1: Formation
-
-A committee may be formed by any number of members of the organization.
-Each committee must consist of at least one voting member who will act as its chair.
-In order for a committee to be formally recognized by the organization, the members who wish to incept the committee must inform the President of their intent.
-The committee shall be recognized if it is approved by the President.
-Ideally, a new committee will be created to handle each proposed regular event or activity of the organization outside of meetings.
-A list of current committees can be found in Appendix B to this document.
-
-### Section 2: Standing Committees
+### Section 1: Standing Committees
 
 Committees that are vital to the continued existence of the organization or those that inherited activities previously organized independently by graduate students in the Department shall be recognized as standing committees.
 These committees shall exist, even if they have no members.
-In this case, the President will be responsible for appointing voting members to serve on these committees.
+In this case, the President will be responsible for finding voting members to serve on these committees.
+The President shall have no power to make appointments to committees.
 
-### Section 3: Dissolution
+A list of standing committees can be found in [Appendix B](#appendix-b-list-of-committees) of this document.
 
-Should the Board of Directors decide that a committee has fulfilled its mission successfully or that a committee can no longer continue to work towards the fulfillment of its mission, the Board of Directors may elect to dissolve the committee.
-To do so, the Board of Directors will first inform the committee members of their intent.
-Should they choose to do so, the committee members will them be allowed to appeal the decision.
-In order to rescind the dissolution of a committee, the committee in question must ascertain the support of a simple majority of the voting members of the Board of Directors.
+### Section 2: Special Committees
+
+A special committee may be formed by a resolution of the general body.
+A special committee shall dissolve at the close of the annual meeting, upon delivering its final report to the general body, or upon resolution o the general body.
+
+### Section 3: Membership and Organization
+
+Committees of the organization shall be open to participation by all active members.
+Committees may be open to participation by non-members at the discretion of the general body, except where otherwise prohibited.
+
+Each committee shall elect a chair from among those members who meet the qualifications unless stipulated otherwise by this Constitution.
+Only active members shall be eligible to chair committees of the organization.
 
 ## ARTICLE VIII: MEETINGS
 
