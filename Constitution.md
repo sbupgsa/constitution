@@ -86,17 +86,12 @@ The Board of Directors shall be comprised of at least four, but no more than ten
 The right to vote shall be granted on the basis of whether or not the individual in question has been elected to their position from among the entirety of the constituency of the organization and whether or not the position to which the individual has been elected serves to connect the organization to a separate entity.
 The members of the Board of Directors are the President, Vice President, Treasurer, Secretary, Historian, Director of External Affairs, Director of Marketing, Director of Outreach, Underclassperson Member-at-Large, Upperclassperson Member-at-Large, Chairs of all Committees of the organization, the Senators of the GSO who represent the Department, at least one student member of each committee of the Department, and the Advisor.
 
-#### SUBSECTION B: EXECUTIVE COMMITTEE
-
-The Executive Committee shall be a subset of the Board of Directors, comprised of the President, Vice President, Treasurer, Secretary, and Historian.
-At all times, all positions in the Executive Committee must be filled, with the exception of the Historian.
+At all times, the positions of the President, Vice President, Treasurer, and Secretary must be filled.
 Should this not be the case, the organization shall be considered defunct, in addition to the ordinances specified in [Article XII](#article-xii-disbursal-of-assets-in-the-event-the-group-becomes-defunct).
 
-The Executive Committee shall be responsible for handling all disciplinary matters (with the consultation of the Advisor), as well as all matters administrative, supervisory, and fiscal.
-It is the highest governing body of the organization.
-The Executive Committee must convene at least once each semester at a time that does not conflict with any other meeting of members of the organization.
+The Board of Directors shall be responsible for handling all disciplinary matters (with the consultation of the Advisor), as well as all matters administrative, supervisory, and fiscal.
 
-#### SUBSECTION C: EX OFFICIO MEMBERS
+#### SUBSECTION B: EX OFFICIO MEMBERS
 
 Ex officio members to the Board of Directors are appointed due to their relation to certain activities within the organization or their affiliation with other entities whose activities are pertinent to the governance of the organization.
 Ex officio members have a voice, but not a vote in meetings of the Board of Directors, unless they have, in addition, been elected to a voting position in the Board of Directors.
@@ -108,15 +103,15 @@ Though ex officio members are not provided a vote in matters decided by the Boar
 #### SUBSECTION A: PRESIDENT
 
 The President shall be the official representative of the organization; they shall also be a non-voting ex-officio member of all committees of the organization.
-The President shall have the power to convene and preside over the meetings of the Executive Committee, Board of Directors, and the general membership and prepare the agenda for said meetings.
+The President shall have the power to convene and preside over the meetings of the Board of Directors and the general membership and prepare the agenda for said meetings.
 By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless his/her vote will break a tie.
-The President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Executive Committee.
+The President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
 
 #### SUBSECTION B: VICE PRESIDENT
 
 The Vice President is charged with assisting the President in any reasonable task at the behest of the President.
 The Vice President shall be required to see that standing committee chairpersons are fulfilling their duties.
-The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Executive Committee.
+The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
 If the President is unable to perform his/her duties, (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of President.
 The President or the Advisor may, when necessary, temporarily grant the powers bestowed upon the President to the Vice President.
 
@@ -124,7 +119,7 @@ The President or the Advisor may, when necessary, temporarily grant the powers b
 
 The Treasurer shall keep detailed record of all monies allotted to and raised by the organization.
 The Treasurer shall also submit all payment requests.
-The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Executive Committee.
+The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
 The Treasurer shall assume the position of Vice President in the event that the Vice President is unable to perform his/her duties (due to leave of absence, resignation, or assumption of Presidency).
 A new Treasurer will be elected in a special election called by the President if a vacancy occurs in this office.
 The President, Vice President, or the Advisor may, when necessary, temporarily grant the powers bestowed upon the Vice President to the Treasurer.
@@ -226,8 +221,8 @@ In the case that there is only one candidate on the ballot for a given position,
 In the case that there exist multiple candidates for a given position, a ranked choice system shall be utilized, wherein each voting member shall indicate on their ballot their order of preference among the available candidates, including the possibility to vote for the position to remain vacant.
 The presiding officer (the senior-most member, according to the alphabetical order of ascension given in Section 3 shall preside over the election and shall decide the winners by continuously eliminating the candidates who garner fewer votes than <math><mfrac><mrow><mi mathvariant="italic">100% of the vote</mi></mrow><mrow><mi mathvariant="italic">The number of remaining candidates</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mn>1</mn></math>, until there is clear majority support for a single candidate over the other remaining candidate.
 
-In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Executive Committee.
-Should the Executive Committee deem the second choice candidate unfit to serve, the position will be offered to the third person, or considered vacant if necessary.
+In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Board of Directors.
+Should the Board of Directors deem the second choice candidate unfit to serve, the position will be offered to the third person, or considered vacant if necessary.
 
 #### SUBSECTION D: TRANSFERRAL OF POWER
 
@@ -236,19 +231,18 @@ The outgoing Board of Directors shall, after the election, provide sufficient tr
 #### SUBSECTION E: TERM LIMITS
 
 A term shall be defined as a period of time one year in duration (except for the Historian position which shall last three years) during which an elected member of the Board of Directors shall hold their position.
-No member of the Executive Committee shall hold the same position for more than two consecutive terms.
-Any elected member of the Board of Directors who does not sit on the Executive Committee may hold office for as many consecutive terms as they are elected.
+No member shall be eligible to occupy the same office for more than two consecutive terms if said office is that of President, Vice President, Treasurer, Secretary, or Historian.
+No other positions on the Board of Directors shall be subject to such term limits.
 A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
 
 ### Section 5: Assignment upon Removal, Resignation or Vacancy
 
-Should a position within the Board of Directors, but not on the Executive Committee, fall vacant at any time not during an election, then the Executive Committee shall appoint a general voting member, who they deem fit to serve in such a capacity.
+Should a position within the Board of Directors other than the President, Vice President, Treasurer, Secretary, and Historian fall vacant at any time not during an election, then the Board of Directors shall appoint a general voting member, who they deem fit to serve in such a capacity.
 
-Should a position within the Board of Directors, at any time not during an election, fall totally vacant, in that no voting member is willing or able to fill it, then the duties assigned to that position, disregarding Board of Director or Executive Committee voting privileges, shall be designated by the Board of Directors to some member amongst themselves.
+Should a position within the Board of Directors, at any time not during an election, fall totally vacant, in that no voting member is willing or able to fill it, then the duties assigned to that position, disregarding Board of Director voting privileges, shall be designated by the Board of Directors to some member amongst themselves.
 
 If there is at any time a vacancy for the office of President, then the Vice President shall assume the position of President by default, the role of the Vice President correspondingly shall be assumed by the Treasurer, until a special election is held for a new President.
-The special election must occur within one month of the position of President falling vacant.
-Should any position on the Executive Committee fall vacant, a special election must be held within a one month period.
+Should position of the President, Vice President, Treasurer, Secretary, or Historian fall vacant, a special election must be held within a one month period.
 Should the President, Vice President, Treasurer, and Secretary positions all fall vacant after an election, then another full election shall be held, including the position of Historian, regardless of the status of their term.
 
 ## ARTICLE VII: COMMITTEES
@@ -321,15 +315,6 @@ The Historian shall be responsible for recording the minutes at meetings of the 
 If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
 All minutes from meetings of the Board of Directors shall be made available by the Director of Marketing.
 
-### Section 5: Executive Committee Meetings
-
-The Executive Committee shall convene a meeting at least semiannually at a time decided at their discretion.
-Meetings of the Executive Committee shall not be privy to any members not in the body of interest unless they are invited to speak or make an appeal.
-The Historian shall be responsible for recording minutes at meetings of the Executive Committee, rather than the Secretary.
-If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
-Due to the sensitive nature of some of the topics on agendas for Executive Committee meetings, minutes shall be reviewed and approved by the President before being submitted to the Director of Marketing to make available to the general membership.
-A full record of the minutes must still be maintained by the Historian, who may make these minutes available three years after a meeting occurs.
-
 ## ARTICLE IX: OFFICIAL STATEMENTS
 
 The Board of Directors is the only entity able to make official statements on behalf of the organization.
@@ -340,56 +325,56 @@ Where necessary, the approval of the graduate program director and chair of the 
 
 ### Section 1: General-Body Members
 
-Should the Executive Committee be informed of a member acting in a disruptive manner while participating in an activity endorsed or organized by the organization or one of its affiliates, the Executive Committee reserves the right to take disciplinary action against the member.
+Should the Board of Directors be informed of a member acting in a disruptive manner while participating in an activity endorsed or organized by the organization or one of its affiliates, the Board of Directors reserves the right to take disciplinary action against the member.
 Disciplinary action is a three-step process, enumerated in the following subsections.
 
 #### SUBSECTION A: WARNINGS
 
-The individual in question shall be notified formally by some verbal communication, which directly addresses the concerns of the Executive Committee and any related members.
-Following the warning, said individual may be placed on a probationary period determined by the Executive Committee for no less than 1 month and no longer than 6 months.
+The individual in question shall be notified formally by some verbal communication, which directly addresses the concerns of the Board of Directors and any related members.
+Following the warning, said individual may be placed on a probationary period determined by the Board of Directors for no less than 1 month and no longer than 6 months.
 The individual must be notified regarding their probationary status and be clearly informed as to the length of the period.
-Should the disruptive behavior continue without regard for the warning, the Executive Committee may seek mediation, so long as the probationary period has not expired.
+Should the disruptive behavior continue without regard for the warning, the Board of Directors may seek mediation, so long as the probationary period has not expired.
 A member may be placed on probation a maximum of two times before proceeding to the mediation step.
-Providing a warning to a member or placing a member on probation requires the support of a simple majority of the Executive Committee.
+Providing a warning to a member or placing a member on probation requires the support of a simple majority of the Board of Directors.
 Once this course of action is decided, the Advisor shall be informed.
-If any further infractions occur during the probationary period, then the Executive Committee will immediately move to mediation.
+If any further infractions occur during the probationary period, then the Board of Directors will immediately move to mediation.
 Probation can entail, but is not limited to: a simple, formal warning and review period, barring the member from participating in activities of the organization for a designated period of time, or revocation of the member&rsquo;s right to use shared spaces.
 
 #### SUBSECTION B: MEDIATION
 
-If it becomes clear that the warning given to a disruptive individual has been ignored or was not effective, the Executive Committee may choose to seek mediation from a neutral outside party.
+If it becomes clear that the warning given to a disruptive individual has been ignored or was not effective, the Board of Directors may choose to seek mediation from a neutral outside party.
 The individual in question shall be notified in writing of the decision and may participate in the selection of the neutral party as well as in scheduling the meeting.
 The individual must be given a chance to defend their actions.
-Moving to mediation requires a unanimous vote of the Executive Committee and must be followed immediately by informing the Advisor of the pending mediation.
-All Executive Committee members must be present at the meeting.
+Moving to mediation requires a unanimous vote of the Board of Directors and must be followed immediately by informing the Advisor of the pending mediation.
+All voting members of Board of Directors members must be present at the meeting.
 
 #### SUBSECTION C: REMOVAL
 
-The Executive Committee may remove a member if and only if there is clear, presentable evidence or testimony from other members of the organization that the individual in question has not corrected or otherwise properly addressed their disruptive behavior after both a warning and mediation.
-At this point the Executive Committee may vote upon the removal of the individual from the organization.
-Removing a member requires the Executive Committee to vote unanimously in favor of the motion and written consent from the Advisor, who will be notified prior to the vote.
-The individual must be notified in person of the Executive Committee&rsquo;s decision, with at least one neutral party present, and shall be provided a written transcript of the meeting following the proceedings.
+The Board of Directors may remove a member if and only if there is clear, presentable evidence or testimony from other members of the organization that the individual in question has not corrected or otherwise properly addressed their disruptive behavior after both a warning and mediation.
+At this point the Board of Directors may vote upon the removal of the individual from the organization.
+Removing a member requires the Board of Directors to vote unanimously in favor of the motion and written consent from the Advisor, who will be notified prior to the vote.
+The individual must be notified in person of the Board of Directors&rsquo; decision, with at least one neutral party present, and shall be provided a written transcript of the meeting following the proceedings.
 Revocation of membership entails no longer being allowed to participate in or be present at activities of the organization, vote, and no longer being able to represent the organization either formally or informally.
 
 ### Section 2: Board Members
 
 Members of the Board of Directors may be disciplined following the same procedure as that required for general body members with the additional step of first removing the member from the Board of Directors, which requires that the member in question be brought up on impeachment charges.
 
-Any member of the Board of Directors may be issued a notice to attend a meeting of the Executive Committee for charges leading to impeachment by the President if they are accused of acting in a manner detrimental to the organization or are acting without regard for the responsibilities of their office.
+Any member of the Board of Directors may be issued a notice to attend a meeting of the Board of Directors for charges leading to impeachment by the President if they are accused of acting in a manner detrimental to the organization or are acting without regard for the responsibilities of their office.
 Such a writ shall be issued should the President be provided a list of charges signed by three-quarters of the members of the Board of Directors.
 If disciplinary action is to be taken against the President, such a list must be provided to the Vice President.
-Upon receipt of the list, the member in question shall be suspended from their office and prevented from exercising all powers and voting rights until a meeting of the Executive Committee and the Advisor is convened, in which the member in question may defend themselves against the issued charges.
-If the Executive Committee and Advisor unanimously find the individual in question guilty, the individual shall immediately be made destitute of all power and responsibilities within the organization and shall be made a general member.
-If the Executive Committee and the Advisor cannot reach an unanimous decision, the charges shall be brought forth to the entire general membership body.
+Upon receipt of the list, the member in question shall be suspended from their office and prevented from exercising all powers and voting rights until a meeting of the Board of Directors and the Advisor is convened, in which the member in question may defend themselves against the issued charges.
+If the Board of Directors and Advisor unanimously find the individual in question guilty, the individual shall immediately be made destitute of all power and responsibilities within the organization and shall be made a general member.
+If the Board of Directors and the Advisor cannot reach an unanimous decision, the charges shall be brought forth to the entire general membership body.
 The member shall be removed successfully from the Board of Directors if three-quarters of the general membership body vote to do so.
 
 ## ARTICLE XI: SELECTION OF A NEW ADVISOR
 
 The organization seeks to maintain close relations to the Department.
-As such, the position of faculty Advisor shall remain with the chair of the Quality of Life Committee of the Department unless otherwise specified by the Executive Committee.
-Should the chair at any point refuse the responsibility, an Advisor Search Committee chaired by the Vice President shall be formed within the organization, tasked with identifying and bringing to the attention of the Executive Committee candidates for a new advisor.
-The Advisor Search Committee shall, given the approval of the Executive Committee, approach potential candidates for the position until a new advisor has been identified and instated.
-This person shall serve until a chair of the Quality of Life Committee accepts the position, they choose to vacate otherwise, or the Executive Committee deems, with sufficient evidence, that this individual is no longer fit to serve.
+As such, the position of faculty Advisor shall remain with the chair of the Quality of Life Committee of the Department unless otherwise specified by the Board of Directors.
+Should the chair at any point refuse the responsibility, an Advisor Search Committee chaired by the Vice President shall be formed within the organization, tasked with identifying and bringing to the attention of the Board of Directors candidates for a new advisor.
+The Advisor Search Committee shall, given the approval of the Board of Directors, approach potential candidates for the position until a new advisor has been identified and instated.
+This person shall serve until a chair of the Quality of Life Committee accepts the position, they choose to vacate otherwise, or the Board of Directors deems, with sufficient evidence, that this individual is no longer fit to serve.
 
 ## ARTICLE XII: DISBURSAL OF ASSETS IN THE EVENT THE GROUP BECOMES DEFUNCT
 
@@ -428,43 +413,6 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 ## APPENDICES
 
 ### APPENDIX A: AMENDMENTS TO THE CONSTITUTION
-
-#### \[DRAFT\] Amendment &mdash;&mdash;
-
-Approved: &mdash;&mdash;
-
-All graduate students of the Department shall automatically be granted member status.
-
-A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
-
-Active members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors, on amendments to the Constitution, and on other matters deemed of concern by the Board of Directors.
-A voting member may cede such designation, should they choose.
-
-The following text shall be struck from Article IV, Section 1:
-
-> A member shall be deemed active after they have attended one meeting of the general membership body.
-
-The following text shall be inserted into Article IV, Section 1:
-
-> All graduate students of the Department shall automatically be granted member status.
-
-Article IV, Section 4 shall be retitled from &ldquo;Voting Rights&rdquo; to &ldquo;Active Member Status & Voting Rights&rdquo;.
-
-Article IV, Section 4, which reads:
-
-> Those members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors (whose duties and election procedures are detailed in [Article VI](#article-vi-leadership)), on amendments to the Constitution (following the process detailed in [Article XIII](#article-xiii-amending-the-constitution)), and on other matters deemed of concern by the Board of Directors.
-> All graduate students of the Department shall automatically be granted voting member status, though they may cede this designation, should they choose.
->
-> All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.
-
-shall be altered to read:
-
-> A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
->
-> Active members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors (whose duties and election procedures are detailed in [Article VI](#article-vi-leadership)), on amendments to the Constitution (following the process detailed in [Article XIII](#article-xiii-amending-the-constitution)), and on other matters deemed of concern by the Board of Directors.
-> A voting member may cede such designation, should they choose.
->
-> All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.
 
 ### APPENDIX B: LIST OF COMMITTEES
 
