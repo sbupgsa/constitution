@@ -104,23 +104,23 @@ Though ex officio members are not provided a vote in matters decided by the Boar
 
 The President shall be the official representative of the organization.
 The President shall have the power to convene and preside over the meetings of the Board of Directors and the general membership and prepare the agenda for said meetings.
-By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless his/her vote will break a tie.
-The President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
+By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless their vote will break a tie.
+The President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
 
 #### SUBSECTION B: VICE PRESIDENT
 
 The Vice President is charged with assisting the President in any reasonable task at the behest of the President.
 The Vice President shall be required to see that standing committee chairpersons are fulfilling their duties.
-The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
-If the President is unable to perform his/her duties, (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of President.
+The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
+If the President is unable to perform their duties, (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of President.
 The President or the Advisor may, when necessary, temporarily grant the powers bestowed upon the President to the Vice President.
 
 #### SUBSECTION C: TREASURER
 
 The Treasurer shall keep detailed record of all monies allotted to and raised by the organization.
 The Treasurer shall also submit all payment requests.
-The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
-The Treasurer shall assume the position of Vice President in the event that the Vice President is unable to perform his/her duties (due to leave of absence, resignation, or assumption of Presidency).
+The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the Board of Directors.
+The Treasurer shall assume the position of Vice President in the event that the Vice President is unable to perform their duties (due to leave of absence, resignation, or assumption of Presidency).
 A new Treasurer will be elected in a special election called by the President if a vacancy occurs in this office.
 The President, Vice President, or the Advisor may, when necessary, temporarily grant the powers bestowed upon the Vice President to the Treasurer.
 
@@ -137,7 +137,7 @@ The Historian is responsible for facilitating the storage and propagation of ins
 The Historian shall collect and compile information from the Secretary, Director of External Affairs, Director of Marketing, and the Director of Outreach to maintain proper continuity of the activities of the organization.
 The Historian shall also assist, as necessary, those members who occupy the aforementioned positions.
 The Historian, unlike all other positions, shall perform their duties for a term of three years so as to be able to provide historical context.
-When possible, the Historian should have previously held at least one other position on the Board of Directors prior to his/her term.
+When possible, the Historian should have previously held at least one other position on the Board of Directors prior to their term.
 A new Historian will be elected in a special election called by the President if a vacancy occurs is in this office.
 The Historian may also be referred to as the Bard.
 
@@ -173,7 +173,7 @@ The Upperclassperson Member-at-Large will chair the Committee on Engagement (enu
 #### SUBSECTION K: COMMITTEE CHAIRS
 
 All chairs of committees of the organization (as defined in [Article VII](#article-vii-committees)) shall be members ex officio of the Board of Directors unless otherwise specified.
-Should a committee be comprised of at least six members, then the chair of the committee, as per the parliamentary authority, shall not vote on a motion unless his/her vote breaks a tie.
+Should a committee be comprised of at least six members, then the chair of the committee, as per the parliamentary authority, shall not vote on a motion unless their vote breaks a tie.
 Committee chairs may also hold a voting position in the Board of Directors.
 
 #### SUBSECTION L: GRADUATE STUDENT ORGANIZATION SENATORS
