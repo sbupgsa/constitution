@@ -283,7 +283,7 @@ The regular meetings of the organization shall be held, during the first week of
 
 #### SUBSECTION B: Annual Meetings
 
-The regular meeting during the first week of May shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and or any other business that may arise.
+The regular meeting during the month of April shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and or any other business that may arise.
 
 #### SUBSECTION C: Special Meetings
 
