@@ -282,12 +282,12 @@ The regular meetings of the organization shall be held, during the first week of
 
 #### SUBSECTION B: Annual Meetings
 
-The regular meeting during the first week of May shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and or any other business that may arise.
+The regular meeting during the month of April shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and or any other business that may arise.
 
 #### SUBSECTION C: Special Meetings
 
 Special meetings may be called by the President or by the Board of Directors and shall be called upon the written request of five members of the organization.
-The purpose of the meeting shall be stated in the call, which shall be sent to all members at least one week before the meeting.
+The purpose of the meeting shall be stated in the call, sent pursuant to Subsection E of this section.
 
 #### SUBSECTION D: Quorum
 
@@ -295,7 +295,7 @@ The number of voting members required to reach quorum for the general body of th
 
 #### SUBSECTION E: Notice
 
-All members shall be informed of and provided the agenda and prior notice for a given meeting of the general membership body no later than one week prior to the scheduled meeting.
+All members shall be informed of and provided the agenda and written notice no later than one week prior to a regular meeting of the general membership body and no later than seventy-two hours prior to a special meeting of the general membership body.
 
 ### Section 2: Regular Events
 
@@ -310,6 +310,8 @@ Business pertaining to the charge of a committee shall occur at any meetings in 
 If minutes are taken at committee meetings that are pertinent to other aspects of the governance of the organization, they are to be relayed to the Director of Marketing who will publish them.
 Any minutes are also to be relayed to the Historian so that a record may be maintained.
 
+All members of the organization shall be informed of and provided the agenda and written notice no later than seventy-two hours prior to a committee meeting.
+
 ### Section 4: Board of Directors Meetings
 
 The Board of Directors shall convene a meeting at least once monthly at a time decided at their discretion.
@@ -317,6 +319,8 @@ Board of Directors meetings are open for all members to attend, but only those w
 The Historian shall be responsible for recording the minutes at meetings of the Board of Directors, rather than the Secretary.
 If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
 All minutes from meetings of the Board of Directors shall be made available by the Director of Marketing.
+
+All members of the organization shall be informed of and provided the agenda and written notice no later than seventy-two hours prior to a meeting of the Board of Directors.
 
 ## ARTICLE IX: OFFICIAL STATEMENTS
 
