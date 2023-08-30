@@ -383,12 +383,12 @@ Should the organization cease to maintain activity under the standards establish
 
 Amendments to the Constitution may be submitted to the Secretary in writing by any member of the organization.
 
-An amendment to the Constitution may not be voted upon unless all members of the organization are notified in writing at least one week in advance of said vote.
+An amendment may be vote upon during any meeting of the general body provided that all members of the organization are notified in writing at least one week in advance of said vote.
 Said notice must include the proposed text of the amendment.
-
-A two-thirds majority vote is necessary for the passage of an amendment.
+Said vote shall require a two-thirds majority for the passage of the amendment.
 The result of the vote must be reflected in the meeting minutes.
-A quorum is required.
+
+The Constitution shall be reviewed and updated annually at the final meeting of the general body of the academic year.
 
 Upon passage of an amendment, it shall be submitted to Student Engagement \& Activities for approval.
 If so approved, the amendment, as well as any text overwritten, shall be recorded in [Appendix A](#appendix-a-amendments-to-the-constitution) of this Constitution, in addition to its inclusion within the text of the Constitution.
