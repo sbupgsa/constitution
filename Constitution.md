@@ -80,7 +80,6 @@ All candidates must plan to attend SBU at least until the following election pas
 An individual shall not be considered a candidate for office if they have met their term limits, as defined in Section 4.
 An individual shall only be recognized as a candidate if they have been an active member of the organization for at least two semesters prior to the semester wherein they would assume office, if elected.
 Those who are elected shall be expected to become familiar with the Student Club and Organization Handbook (henceforth &ldquo;the handbook&rdquo;), provided by SBU&rsquo;s Office of Student Engagement and Activities.
-The latest edition of the handbook can be found [here](http://studentaffairs.stonybrook.edu/sac/clubs_orgs/Club%20Manual%2016-17.pdf).
 
 ### Section 2: Structure
 
@@ -401,6 +400,12 @@ If so approved, the amendment, as well as any text overwritten, shall be recorde
 ## APPENDICES
 
 ### APPENDIX A: AMENDMENTS TO THE CONSTITUTION
+
+#### \[DRAFT\] Amendment &mdash;&mdash;
+
+Approved: &mdash;&mdash;
+
+The Constitution is amended by striking out the words &ldquo;The latest edition of the handbook can be found [here](http://studentaffairs.stonybrook.edu/sac/clubs_orgs/Club%20Manual%2016-17.pdf).&rdquo; from Article VI, Section 1.
 
 ### APPENDIX B: LIST OF COMMITTEES
 
