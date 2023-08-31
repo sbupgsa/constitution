@@ -262,7 +262,7 @@ A list of standing committees can be found in [Appendix B](#appendix-b-list-of-c
 ### Section 2: Special Committees
 
 A special committee may be formed by a resolution of the general body.
-A special committee shall dissolve at the close of the annual meeting, upon delivering its final report to the general body, or upon resolution o the general body.
+A special committee shall dissolve at the close of the annual meeting, upon delivering its final report to the general body, or upon resolution of the general body.
 
 ### Section 3: Membership and Organization
 
