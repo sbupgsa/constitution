@@ -165,13 +165,13 @@ The Director of Outreach shall interact with the appropriate individuals in othe
 
 The Underclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status between G1 and G4 on the Board of Directors and advocating on their behalf.
 The Underclassperson Member-at-Large must fall under one of the aforementioned enrollment statuses.
-The Underclassperson Member-at-Large will chair the Committee on Master&rsquo;s Student Engagement and Activities (enumerated in [Appendix B](#appendix-b-list-of-committees)).
+The Underclassperson Member-at-Large will chair the Committee on Master&rsquo;s Student Engagement and Activities (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
 
 #### SUBSECTION J: UPPERCLASSPERSON MEMBER-AT-LARGE
 
 The Upperclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status of G5 on the Board of Directors and advocating on their behalf.
 The Upperclassperson Member-at-Large must have an enrollment status of G5.
-The Upperclassperson Member-at-Large will chair the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-committees)).
+The Upperclassperson Member-at-Large will chair the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
 
 #### SUBSECTION K: COMMITTEE CHAIRS
 
@@ -257,7 +257,7 @@ These committees shall exist, even if they have no members.
 In this case, the President will be responsible for finding voting members to serve on these committees.
 The President shall have no power to make appointments to committees.
 
-A list of standing committees can be found in [Appendix B](#appendix-b-list-of-committees) of this document.
+A list of standing committees can be found in [Appendix B](#appendix-b-list-of-standing-committees) of this document.
 
 ### Section 2: Special Committees
 
@@ -411,7 +411,7 @@ Approved: &mdash;&mdash;
 
 The Constitution is amended by striking out the words &ldquo;The latest edition of the handbook can be found [here](http://studentaffairs.stonybrook.edu/sac/clubs_orgs/Club%20Manual%2016-17.pdf).&rdquo; from Article VI, Section 1.
 
-### APPENDIX B: LIST OF COMMITTEES
+### APPENDIX B: LIST OF STANDING COMMITTEES
 
 #### Committee on Diversity
 
