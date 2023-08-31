@@ -365,15 +365,7 @@ Revocation of membership entails no longer being allowed to participate in or be
 
 ### Section 2: Board Members
 
-Members of the Board of Directors may be disciplined following the same procedure as that required for general body members with the additional step of first removing the member from the Board of Directors, which requires that the member in question be brought up on impeachment charges.
-
-Any member of the Board of Directors may be issued a notice to attend a meeting of the Board of Directors for charges leading to impeachment by the President if they are accused of acting in a manner detrimental to the organization or are acting without regard for the responsibilities of their office.
-Such a writ shall be issued should the President be provided a list of charges signed by three-quarters of the members of the Board of Directors.
-If disciplinary action is to be taken against the President, such a list must be provided to the Vice President.
-Upon receipt of the list, the member in question shall be suspended from their office and prevented from exercising all powers and voting rights until a meeting of the Board of Directors and the Advisor is convened, in which the member in question may defend themselves against the issued charges.
-If the Board of Directors and Advisor unanimously find the individual in question guilty, the individual shall immediately be made destitute of all power and responsibilities within the organization and shall be made a general member.
-If the Board of Directors and the Advisor cannot reach an unanimous decision, the charges shall be brought forth to the entire general membership body.
-The member shall be removed successfully from the Board of Directors if three-quarters of the general membership body vote to do so.
+Members &mdash; whether voting or non-voting &mdash; of the Board of Directors may be removed from office for cause as provided in the parliamentary authority.
 
 ## ARTICLE XI: SELECTION OF A NEW ADVISOR
 
