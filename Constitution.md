@@ -38,8 +38,6 @@ The organization remains open to adjoining with larger bodies, should it be mutu
 Status as an active member is limited to currently enrolled students at SBU and is open to all such students.
 A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
 
-In the event an individual cedes their status as a voting member (as defined in Section 4), they may still be permitted to use any shared spaces unless otherwise specified as in either section of [Article X](#article-x-disciplinary-action-against-members).
-
 Participation by alumni of the Department, as well as faculty within the Department is encouraged, but such individuals shall not constitute members of the organization and shall not be eligible to vote during meetings of the general body.
 Non-University members may participate, but may not: act on behalf of the organization; hold office in the organization; preside over, officiate, vote, motion, or second motions at any meeting of the organization; solicit funds on campus on behalf of the organization; work at tables or events on the campus on behalf of the organization unless an active member or SBU faculty or staff is at all times present and responsible for the activity.
 
@@ -417,38 +415,35 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 
 Approved: &mdash;&mdash;
 
-All graduate students of the Department shall automatically be granted member status.
+[Article IV, Section 1](#section-1-qualifications) is amended by substituting for its first paragraph the following:
 
-A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
+> Status as an active member is limited to currently enrolled students at SBU and is open to all such students.
+> A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
 
-Active members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors, on amendments to the Constitution, and on other matters deemed of concern by the Board of Directors.
-A voting member may cede such designation, should they choose.
+The text overwritten is as follows:
 
-The following text shall be struck from Article IV, Section 1:
-
+> In order to be a member of the organization, one must be a fully matriculated student at SBU, enrolled in an undergraduate program, a graduate program, a pre-professional program, or a continuing education program.
+> In the event an individual cedes their status as a voting member (as defined in Section 4), they may still be permitted to use any shared spaces unless otherwise specified as in either section of [Article X](#article-x-disciplinary-action-against-members).
+> Although the organization exists, in part, to benefit the graduate students of the Department, being enrolled in a graduate program of the Department is not a requirement.
 > A member shall be deemed active after they have attended one meeting of the general membership body.
 
-The following text shall be inserted into Article IV, Section 1:
+The second paragraph of [Article IV, Section 1](#section-1-qualifications) is amended by striking out the words &ldquo;be granted voting right, nor the power to influence sensitive decisions otherwise&rdquo; and inserting the words
 
-> All graduate students of the Department shall automatically be granted member status.
+> constitute members of the organization and shall not be eligible to vote during meetings of the general body.
+> Non-University members may participate, but may not: act on behalf of the organization; hold office in the organization; preside over, officiate, vote, motion, or second motions at any meeting of the organization; solicit funds on campus on behalf of the organization; work at tables or events on the campus on behalf of the organization unless an active member or SBU faculty or staff is at all times present and responsible for the activity.
 
-Article IV, Section 4 shall be retitled from &ldquo;Voting Rights&rdquo; to &ldquo;Active Member Status & Voting Rights&rdquo;.
+[Article IV, Section 2](#section-2-non-discrimination) is amended
+by striking out the words &ldquo;shall be a viable, functioning entity, composed of at least four full time graduate students and;&rdquo;
+by striking out the word &ldquo;religion&rdquo; and inserting the words &ldquo;political or religious beliefs;&rdquo;
+by striking out the word &ldquo;or&rdquo; before the words &ldquo;sexual orientation;&ldquo; and
+by inserting the words &ldquo;and all other protected classes under federal and state laws.&rdquo; after the words &ldquo;sexual orientation.&ldquo;
 
-Article IV, Section 4, which reads:
+The first paragraph of [Article IV, Section 4](#section-4-voting-rights) is amended
+by striking the words &ldquo;Those members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted&rdquo; and inserting the words &ldquo;Active members shall have;&rdquo; and
+by striking the words &ldquo;other matters deemed of concern by the Board of Directors&rdquo; and inserting the word &ldquo;all other matters before the general body.&rdquo;
 
-> Those members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors (whose duties and election procedures are detailed in [Article VI](#article-vi-leadership)), on amendments to the Constitution (following the process detailed in [Article XIII](#article-xiii-amending-the-constitution)), and on other matters deemed of concern by the Board of Directors.
-> All graduate students of the Department shall automatically be granted voting member status, though they may cede this designation, should they choose.
->
-> All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.
-
-shall be altered to read:
-
-> A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
->
-> Active members who are fully matriculated graduate students in the Department and have maintained membership in the organization for at least one full semester are granted the right to vote in elections for the Board of Directors (whose duties and election procedures are detailed in [Article VI](#article-vi-leadership)), on amendments to the Constitution (following the process detailed in [Article XIII](#article-xiii-amending-the-constitution)), and on other matters deemed of concern by the Board of Directors.
-> A voting member may cede such designation, should they choose.
->
-> All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.
+[Article IV, Section 4](#section-4-voting-rights) is amended by substituting for its second paragraph the following: &ldquo;Only active members may vote in meetings of the general body.&rdquo;
+The text overwritten is as follows: &ldquo;All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.&rdquo;
 
 ### APPENDIX B: LIST OF COMMITTEES
 
