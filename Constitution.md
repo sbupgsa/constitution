@@ -410,6 +410,26 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 
 ### APPENDIX A: AMENDMENTS TO THE CONSTITUTION
 
+#### \[DRAFT\] Amendment &mdash;&mdash;
+
+Approved: &mdash;&mdash;
+
+[Article VI, Subsection 3(D)](#subsection-d-secretary) is amended by striking out the words &ldquo;the general body and the Board of Directors&rdquo; and inserting the words &ldquo;the general body, the Board of Directors, and the Executive Committee.&rdquo;
+
+[Article VI, Subsection 3(E)](#subsection-e-historian) is amended by inserting after the first sentence the words &ldquo;Should the Secretary be absent from a meeting of the general body, the Board of Directors, or the Executive Committee, the Historian shall take minutes and attendance.&rdquo;
+
+The Constitution is amended by striking out the word &ldquo;Transferral&rdquo; from the heading of [Article VI, Subsection 4(D)](#subsection-d-transferal-of-power) and inserting the word &ldquo;Transferal.&rdquo;
+
+[Article VIII, Section 4](#section-4-board-of-directors-meetings) is amended by striking the following words:
+
+> The Historian shall be responsible for recording the minutes at meetings of the Board of Directors, rather than the Secretary.
+> If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
+
+[Article VIII, Section 5](#section-5-executive-committee-meetings) is amended by striking the following words:
+
+> The Historian shall be responsible for recording minutes at meetings of the Executive Committee, rather than the Secretary.
+> If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
+
 ### APPENDIX B: LIST OF COMMITTEES
 
 #### Committee on Diversity
