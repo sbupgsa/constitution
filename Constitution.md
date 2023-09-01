@@ -415,6 +415,18 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 
 ### APPENDIX A: AMENDMENTS TO THE CONSTITUTION
 
+### \[DRAFT\] Amendment &mdash;&mdash;
+
+Approved: &mdash;&mdash;
+
+[Article II](#article-ii-purpose) is amended by striking out &ldquo;acclamation&rdquo; and inserting &ldquo;acclimation.&rdquo;
+
+[Article II](#article-ii-purpose) is further amended by inserting the words
+&ldquo;The leaders and members of the organization also agree to abide by the Stony Brook University Code of Student Responsibility, University policies, and Federal, New York State, and Local laws.
+Therefore, the rules, regulations, and policies of Stony Brook University shall supersede any terms or processes outlined in this constitution.&rdquo;
+following the sentence
+&ldquo;The organization, as a registered organization at SBU, is committed to promoting a safe and vibrant campus community.&rdquo;
+
 ### APPENDIX B: LIST OF COMMITTEES
 
 #### Committee on Diversity
