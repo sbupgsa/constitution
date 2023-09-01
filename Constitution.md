@@ -66,7 +66,7 @@ The organization recognizes Robert&rsquo;s Rules of Order Newly Revised as its p
 
 ### Section 1: Eligibility
 
-All candidates for a position in the Board of Directors (elected or ex officio) must be a voting member with a minimum cumulative grade point average (henceforth &ldquo;GPA&rdquo;) of 3.0 on a 4.0 scale unless otherwise specified.
+All candidates for a position in the Board of Directors (elected or ex officio) must be an active member with a minimum cumulative grade point average (henceforth &ldquo;GPA&rdquo;) of 3.0 on a 4.0 scale unless otherwise specified.
 All candidates must plan to attend SBU at least until the following election passes.
 An individual shall not be considered a candidate for office if they have met their term limits, as defined in Section 4.
 An individual shall only be recognized as a candidate if they have been an active member of the organization for at least two semesters prior to the semester wherein they would assume office, if elected.
@@ -127,7 +127,7 @@ The President, Vice President, or the Advisor may, when necessary, temporarily g
 
 #### SUBSECTION D: SECRETARY
 
-The Secretary shall take minutes and attendance of all meetings of the general body and the Board of Directors and maintain an up-to-date voting membership roster.
+The Secretary shall take minutes and attendance of all meetings of the general body and the Board of Directors and maintain an up-to-date active membership roster.
 The Secretary shall inform all members at least one academic day prior of the all scheduled meetings of the general membership body by email.
 The Secretary shall also assist the Vice President in ensuring that the standing committee chairpersons are fulfilling their duties.
 A new Secretary will be elected in a special election called by the President if a vacancy occurs in this office.
@@ -199,7 +199,7 @@ The Advisor to the organization shall be a faculty member within the Department 
 
 #### SUBSECTION A: NOMINATION
 
-Any member of the organization may submit nominations to the Historian via email for a voting member (as defined in [Article IV](#article-iv-membership)) to be elected to the Board of Directors.
+Any member of the organization may submit nominations to the Historian via email for an active member (as defined in [Article IV](#article-iv-membership)) to be elected to the Board of Directors.
 Any member may submit multiple nominations.
 Nomination emails must contain the name of the nominee and the position for which the individual is nominated.
 Nominations may be submitted beginning one month prior to the election, until one week prior to the election.
@@ -208,7 +208,7 @@ The Historian will inform all nominees of their nomination and confirm their int
 #### SUBSECTION B: CAMPAIGNING
 
 All confirmed nominees shall be given one week to promote their platforms for all positions for which they are a candidate.
-All candidates may submit a statement to the Director of Marketing to be published and made available to all voting members no later than four days before the election.
+All candidates may submit a statement to the Director of Marketing to be published and made available to all active members no later than four days before the election.
 
 #### SUBSECTION C: VOTING
 
@@ -217,9 +217,9 @@ If a quorum is not met, then the Historian will conduct an electronic election w
 Voting shall be conducted by secret ballot.
 The mechanism for deciding an election shall be determined on a case by case basis.
 
-In the case that there is only one candidate on the ballot for a given position, the individual must garner the support of a simple majority &ldquo;yea&rdquo; vote of the voting membership present.
+In the case that there is only one candidate on the ballot for a given position, the individual must garner the support of a simple majority &ldquo;yea&rdquo; vote of the active membership present.
 
-In the case that there exist multiple candidates for a given position, a ranked choice system shall be utilized, wherein each voting member shall indicate on their ballot their order of preference among the available candidates, including the possibility to vote for the position to remain vacant.
+In the case that there exist multiple candidates for a given position, a ranked choice system shall be utilized, wherein each active member shall indicate on their ballot their order of preference among the available candidates, including the possibility to vote for the position to remain vacant.
 The presiding officer (the senior-most member, according to the alphabetical order of ascension given in Section 3 shall preside over the election and shall decide the winners by continuously eliminating the candidates who garner fewer votes than <math><mfrac><mrow><mi mathvariant="italic">100% of the vote</mi></mrow><mrow><mi mathvariant="italic">The number of remaining candidates</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mn>1</mn></math>, until there is clear majority support for a single candidate over the other remaining candidate.
 
 In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Executive Committee.
@@ -238,9 +238,9 @@ A term is defined to start on June 1<sup>st</sup> of a given year, and end on Ma
 
 ### Section 5: Assignment upon Removal, Resignation or Vacancy
 
-Should a position within the Board of Directors, but not on the Executive Committee, fall vacant at any time not during an election, then the Executive Committee shall appoint a general voting member, who they deem fit to serve in such a capacity.
+Should a position within the Board of Directors, but not on the Executive Committee, fall vacant at any time not during an election, then the Executive Committee shall appoint a general active member, who they deem fit to serve in such a capacity.
 
-Should a position within the Board of Directors, at any time not during an election, fall totally vacant, in that no voting member is willing or able to fill it, then the duties assigned to that position, disregarding Board of Director or Executive Committee voting privileges, shall be designated by the Board of Directors to some member amongst themselves.
+Should a position within the Board of Directors, at any time not during an election, fall totally vacant, in that no active member is willing or able to fill it, then the duties assigned to that position, disregarding Board of Director or Executive Committee voting privileges, shall be designated by the Board of Directors to some member amongst themselves.
 
 If there is at any time a vacancy for the office of President, then the Vice President shall assume the position of President by default, the role of the Vice President correspondingly shall be assumed by the Treasurer, until a special election is held for a new President.
 The special election must occur within one month of the position of President falling vacant.
@@ -252,7 +252,7 @@ Should the President, Vice President, Treasurer, and Secretary positions all fal
 ### Section 1: Formation
 
 A committee may be formed by any number of members of the organization.
-Each committee must consist of at least one voting member who will act as its chair.
+Each committee must consist of at least one active member who will act as its chair.
 In order for a committee to be formally recognized by the organization, the members who wish to incept the committee must inform the President of their intent.
 The committee shall be recognized if it is approved by the President.
 Ideally, a new committee will be created to handle each proposed regular event or activity of the organization outside of meetings.
@@ -262,7 +262,7 @@ A list of current committees can be found in Appendix B to this document.
 
 Committees that are vital to the continued existence of the organization or those that inherited activities previously organized independently by graduate students in the Department shall be recognized as standing committees.
 These committees shall exist, even if they have no members.
-In this case, the President will be responsible for appointing voting members to serve on these committees.
+In this case, the President will be responsible for appointing active members to serve on these committees.
 
 ### Section 3: Dissolution
 
@@ -445,6 +445,10 @@ by striking the words &ldquo;other matters deemed of concern by the Board of Dir
 [Article IV, Section 4](#section-4-voting-rights) is amended by substituting for its second paragraph the following: &ldquo;Only active members may vote in meetings of the general body.&rdquo;
 The text overwritten is as follows: &ldquo;All other members shall be granted non-voting status and, as such, will not have the power to influence decisions that affect the operations of the organization in any matter.&rdquo;
 
+The Constitution is amended
+by striking out the word &ldquo;voting&rdquo; when it refers to a class of membership in the general body&mdash;as defined in [Article IV](#article-iv-membership)&mdash;and inserting the word &ldquo;active;&rdquo; and
+by striking out the word &ldquo;a&rdquo;&mdash;when it precedes where the word &ldquo;voting&rdquo; has been so struck&mdash;and inserting the word &ldquo;an.&rdquo;
+
 ### APPENDIX B: LIST OF COMMITTEES
 
 #### Committee on Diversity
@@ -452,7 +456,7 @@ The text overwritten is as follows: &ldquo;All other members shall be granted no
 Charge: Investigating potential methods of maintaining or increasing diversity, as it is defined in Title IX of the United States Education Amendments of 1972 (20 U.S.C. &sect;&sect; 1681&ndash;1688), within the Department that could be at the behest of the graduate students and advocating proactively to implement such methods.
 This committee is expected to maintain contact with the Departmental Committee on Diversity.
 
-Chair: Any voting member.
+Chair: Any active member.
 
 #### Committee on Engagement
 
@@ -467,7 +471,7 @@ Chair: Upperclassperson Member-at-Large.
 Charge: Facilitating interactions between members and staff and faculty of the Department through a collection of organized activities, including the daily tea/coffee time.
 This committee should also attempt to assist any other collection of members or non-members who attempt to accomplish a similar goal.
 
-Chair: Any voting member.
+Chair: Any active member.
 
 #### Committee on Friday Afternoon Seminars
 
@@ -480,7 +484,7 @@ Chair: A member who participated in organizing FAS in the year prior.
 
 Charge: Organizing and executing regular meetings of GRAD TALKS, wherein students convey to each other various topics, ranging from their own research to journal articles that pertain to their interests, in a casual setting.
 
-Chair: Any voting member.
+Chair: Any active member.
 
 #### Committee on Master&rsquo;s Student Engagement and Activities
 
