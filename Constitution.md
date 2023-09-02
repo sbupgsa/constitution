@@ -129,7 +129,7 @@ The President, Vice President, or the Advisor may, when necessary, temporarily g
 
 #### SUBSECTION D: SECRETARY
 
-The Secretary shall take minutes and attendance of all meetings of the general body and the Board of Directors and maintain an up-to-date active membership roster.
+The Secretary shall take minutes and attendance of all meetings of the general body, the Board of Directors, and the Executive Committee and maintain an up-to-date active membership roster.
 The Secretary shall inform all members at least one academic day prior of the all scheduled meetings of the general membership body by email.
 The Secretary shall also assist the Vice President in ensuring that the standing committee chairpersons are fulfilling their duties.
 A new Secretary will be elected in a special election called by the President if a vacancy occurs in this office.
@@ -137,6 +137,7 @@ A new Secretary will be elected in a special election called by the President if
 #### SUBSECTION E: HISTORIAN
 
 The Historian is responsible for facilitating the storage and propagation of institutional knowledge across various iterations of the organization and its governing bodies.
+Should the Secretary be absent from a meeting of the general body, the Board of Directors, or the Executive Committee, the Historian shall take minutes and attendance.
 The Historian shall collect and compile information from the Secretary, Director of External Affairs, Director of Marketing, and the Director of Outreach to maintain proper continuity of the activities of the organization.
 The Historian shall also assist, as necessary, those members who occupy the aforementioned positions.
 The Historian, unlike all other positions, shall perform their duties for a term of three years so as to be able to provide historical context.
@@ -227,7 +228,7 @@ The presiding officer (the senior-most member, according to the alphabetical ord
 In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Executive Committee.
 Should the Executive Committee deem the second choice candidate unfit to serve, the position will be offered to the third person, or considered vacant if necessary.
 
-#### SUBSECTION D: TRANSFERRAL OF POWER
+#### SUBSECTION D: TRANSFERAL OF POWER
 
 The outgoing Board of Directors shall, after the election, provide sufficient training and guidance to the incoming Board of Directors.
 
@@ -301,16 +302,12 @@ Any minutes are also to be relayed to the Historian so that a record may be main
 
 The Board of Directors shall convene a meeting at least once monthly at a time decided at their discretion.
 Board of Directors meetings are open for all members to attend, but only those who sit on the Board of Directors may participate in the discussion of business.
-The Historian shall be responsible for recording the minutes at meetings of the Board of Directors, rather than the Secretary.
-If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
 All minutes from meetings of the Board of Directors shall be made available by the Director of Marketing.
 
 ### Section 5: Executive Committee Meetings
 
 The Executive Committee shall convene a meeting at least semiannually at a time decided at their discretion.
 Meetings of the Executive Committee shall not be privy to any members not in the body of interest unless they are invited to speak or make an appeal.
-The Historian shall be responsible for recording minutes at meetings of the Executive Committee, rather than the Secretary.
-If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
 Due to the sensitive nature of some of the topics on agendas for Executive Committee meetings, minutes shall be reviewed and approved by the President before being submitted to the Director of Marketing to make available to the general membership.
 A full record of the minutes must still be maintained by the Historian, who may make these minutes available three years after a meeting occurs.
 
@@ -462,6 +459,26 @@ The text overwritten is as follows: &ldquo;All other members shall be granted no
 The Constitution is amended
 by striking out the word &ldquo;voting&rdquo; when it refers to a class of membership in the general body&mdash;as defined in [Article IV](#article-iv-membership)&mdash;and inserting the word &ldquo;active;&rdquo; and
 by striking out the word &ldquo;a&rdquo;&mdash;when it precedes where the word &ldquo;voting&rdquo; has been so struck&mdash;and inserting the word &ldquo;an.&rdquo;
+
+#### Amendment III
+
+Approved: &mdash;&mdash;
+
+[Article VI, Subsection 3(D)](#subsection-d-secretary) is amended by striking out the words &ldquo;the general body and the Board of Directors&rdquo; and inserting the words &ldquo;the general body, the Board of Directors, and the Executive Committee.&rdquo;
+
+[Article VI, Subsection 3(E)](#subsection-e-historian) is amended by inserting after the first sentence the words &ldquo;Should the Secretary be absent from a meeting of the general body, the Board of Directors, or the Executive Committee, the Historian shall take minutes and attendance.&rdquo;
+
+The Constitution is amended by striking out the word &ldquo;Transferral&rdquo; from the heading of [Article VI, Subsection 4(D)](#subsection-d-transferal-of-power) and inserting the word &ldquo;Transferal.&rdquo;
+
+[Article VIII, Section 4](#section-4-board-of-directors-meetings) is amended by striking the following words:
+
+> The Historian shall be responsible for recording the minutes at meetings of the Board of Directors, rather than the Secretary.
+> If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
+
+[Article VIII, Section 5](#section-5-executive-committee-meetings) is amended by striking the following words:
+
+> The Historian shall be responsible for recording minutes at meetings of the Executive Committee, rather than the Secretary.
+> If the Historian position falls totally vacant, the responsibility of recording minutes shall fall back to the Secretary.
 
 ### APPENDIX B: LIST OF COMMITTEES
 
