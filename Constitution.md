@@ -37,10 +37,9 @@ The organization remains open to adjoining with larger bodies, should it be mutu
 
 ### Section 1: Qualifications
 
-Status as an active member is limited to currently enrolled students at SBU and is open to all such students.
-A member shall be deemed active after they have attended at lest one meeting of the general membership body, of a committee of the organization, or of the Board of Directors or the Executive Committee and shall cease to be deemed active one year following the last such meeting which they have attended.
+An individual shall be an active member of the organization if they are enrolled as a student at SBU and have attended at least two regular meetings of the general body in the last year.
 
-Participation by alumni of the Department, as well as faculty within the Department is encouraged, but such individuals shall not constitute members of the organization and shall not be eligible to vote during meetings of the general body.
+Participation by alumni of the Department, as well as faculty within the Department is encouraged, but such individuals shall not constitute active members of the organization and shall not be eligible to vote during meetings of the general body.
 Non-University members may participate, but may not: act on behalf of the organization; hold office in the organization; preside over, officiate, vote, motion, or second motions at any meeting of the organization; solicit funds on campus on behalf of the organization; work at tables or events on the campus on behalf of the organization unless an active member or SBU faculty or staff is at all times present and responsible for the activity.
 
 ### Section 2: Non-Discrimination
