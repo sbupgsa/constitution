@@ -154,7 +154,7 @@ The Director of Outreach shall interact with the appropriate individuals in othe
 The Underclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status between G1 and G4 on the Board of Directors and advocating on their behalf.
 The Underclassperson Member-at-Large must fall under one of the aforementioned enrollment statuses and only active members who fall under the aforementioned enrollment statuses may vote in the election of the Underclassperson Member-at-Large.
 
-The Underclassperson Member-at-Large shall be an ex officio member of the Committee on Master&rsquo;s Student Engagement and Activities (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
+The Underclassperson Member-at-Large shall be an ex officio member of the Committee on Master&rsquo;s Student Engagement and Activities and the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
 
 #### SUBSECTION J: UPPERCLASSPERSON MEMBER-AT-LARGE
 
@@ -533,9 +533,9 @@ Chair: Any active member.
 
 Charge: Facilitating interactions between upperclasspersons and underclasspersons through various planned social events and advocating proactively on behalf of all members who are graduate students of the Department.
 This committee is also responsible for monitoring, to the best of its ability, and assisting underclasspersons in the process of matriculating to upperclassperson standing in the Department.
-The Underclassperson Member-at-Large shall be a member ex-officio to this committee.
+The Underclassperson Member-at-Large and Upperclassperson Member-at-Large shall be members ex-officio to this committee.
 
-Chair: Upperclassperson Member-at-Large.
+Chair: Any active member.
 
 #### Committee on Fostering Intradepartmental Interaction
 
@@ -561,5 +561,6 @@ Chair: Any active member.
 
 Charge: Advocating proactively on behalf of all members who are Master&rsquo;s students of the Department.
 This committee is also responsible for monitoring, to the best of its ability, and assisting Master&rsquo;s students in the process of gaining adequate resources to succeed to a standard they deem attainable.
+The Underclassperson Member-at-Large shall be members ex-officio to this committee.
 
-Chair: Underclassperson Member-at-Large.
+Chair: Any active member who is a Master&rsquo;s student.
