@@ -61,80 +61,74 @@ Only active members may vote in meetings of the general body.
 
 ## ARTICLE V: PARLIAMENTARY AUTHORITY
 
-The organization recognizes Robert&rsquo;s Rules of Order Newly Revised as its parliamentary authority and shall thus consult it to conduct all business except when in contradiction with any ordinances in this Constitution.
+The organization recognizes <cite>Robert&rsquo;s Rules of Order Newly Revised</cite> as its parliamentary authority and shall thus consult it to conduct all business except when in contradiction with any ordinances in this Constitution.
 
 ## ARTICLE VI: LEADERSHIP
 
 ### Section 1: Eligibility
 
-All candidates for a position in the Board of Directors (elected or ex officio) must be an active member with a minimum cumulative grade point average (henceforth &ldquo;GPA&rdquo;) of 3.0 on a 4.0 scale unless otherwise specified.
-All candidates must plan to attend SBU at least until the following election passes.
-An individual shall not be considered a candidate for office if they have met their term limits, as defined in Section 4.
-An individual shall only be recognized as a candidate if they have been an active member of the organization for at least two semesters prior to the semester wherein they would assume office, if elected.
-Those who are elected shall be expected to become familiar with the Student Club and Organization Handbook (henceforth &ldquo;the handbook&rdquo;), provided by SBU&rsquo;s Office of Student Engagement and Activities.
+An individual shall not be eligible to run for or hold an office unless they are an active member of the organization, are enrolled as a graduate student at SBU, and posses a minimum cumulative grade point averages of 3.0 on a 4.0 scale.
 
-### Section 2: Structure
+An individual shall not be eligible to run for an office if they do not plan to attend SBU as a graduate student for the duration of the term of said office or if they have met the term limits for said office, as defined in [Subsection 4(E) of this Article](#subsection-e-term-limits).
 
-#### SUBSECTION A: BOARD OF DIRECTORS
+An individual shall not be eligible to run for an office unless they have been an active member of the organization for at least one full semester prior to the the date they would assume office, if elected.
 
-The governing body of the organization is called the Board of Directors.
-The Board of Directors shall be comprised of at least four, but no more than ten, voting members and at minimum four non-voting, ex officio members.
-The right to vote shall be granted on the basis of whether or not the individual in question has been elected to their position from among the entirety of the constituency of the organization and whether or not the position to which the individual has been elected serves to connect the organization to a separate entity.
-The members of the Board of Directors are the President, Vice President, Treasurer, Secretary, Historian, Director of External Affairs, Director of Marketing, Director of Outreach, Underclassperson Member-at-Large, Upperclassperson Member-at-Large, Chairs of all Committees of the organization, the Senators of the GSO who represent the Department, at least one student member of each committee of the Department, and the Advisor.
+Those who are elected shall be expected to become familiar with the <cite>Student Club and Organization Handbook</cite>&mdash;provided by SBU&rsquo;s Office of Student Engagement and Activities&mdash;and with the parliamentary authority.
+
+### Section 2: Board of Directors
+
+The officers of the organization are the President, the Vice President, the Treasurer, the Secretary, the Historian, the Director of External Affairs, the Director of Marketing, the Director of Outreach, the Underclassperson Member-at-Large, the Upperclassperson Member-at-Large, the Chairs of all committees of the organization, the Senators of the GSO who represent the Department as well as their alternates, all graduate student members of each committee of the Department, and the Advisor.
+These officers shall constitute the Board of Directors.
+
+The President, the Vice President, the Treasurer, the Secretary, the Director of External Affairs, the Director of Marketing, the Director of Outreach, the Underclassperson Member-at-Large, the Upperclassperson Member-at-Large, the Chairs of standing committees of the organization, and the GSO Senators shall be voting members of the Board of Directors and all other members of the Board of Directors shall be non-voting members thereof.
+
+No individual may occupy more than one voting position within the Board of Directors.
+Voting members of the Board of Directors may hold non-voting positions within the Board of Directors, with the exception that no individual may serve as both a GSO Senator and an alternate for the GSO Senators.
+
+The officers shall perform those duties listed in [Section 3 of this Article](#section-3-duties) and such other duties applicable to the office as prescribed by the parliamentary authority or elsewhere in this Constitution.
 
 At all times, the positions of the President, Vice President, Treasurer, and Secretary must be filled.
 Should this not be the case, the organization shall be considered defunct, in addition to the ordinances specified in [Article XII](#article-xii-disbursal-of-assets-in-the-event-the-group-becomes-defunct).
 
-The Board of Directors shall be responsible for handling all disciplinary matters (with the consultation of the Advisor), as well as all matters administrative, supervisory, and fiscal.
-
-#### SUBSECTION B: EX OFFICIO MEMBERS
-
-Ex officio members to the Board of Directors are appointed due to their relation to certain activities within the organization or their affiliation with other entities whose activities are pertinent to the governance of the organization.
-Ex officio members have a voice, but not a vote in meetings of the Board of Directors, unless they have, in addition, been elected to a voting position in the Board of Directors.
-The ex officio members shall consist of the senators of the Department to the GSO, all chairs of committees formed by members of the organization and approved by the Board of Directors, at least one graduate student member from each committee of the Department, and the Advisor.
-Though ex officio members are not provided a vote in matters decided by the Board of Directors, they shall be recognized as highly valued advisory members and, as such, their opinions are not to be taken lightly by the voting members of the Board of Directors.
-
 ### Section 3: Duties
+
+The presiding officer of meetings of the general body shall be the President or&mdash;in their absence&mdash;the Vice President.
+In the absence of both officers from a meeting of the general body, the &ldquo;senior most&rdquo; officer present shall call the meeting to order and preside over the election of a chair for the remainder of the meeting.
+In the absence of all officers from a meeting of the general body, the first active member to arrive at the meeting shall call the meeting to order and preside over the election of a chair for the remainder of the meeting.
+The &ldquo;seniority&rdquo; of officers is defined by: the order of the Subsection&mdash;of this Section&mdash;that details the duties of their office, with officers listed earlier having greater seniority.
+Ties between officers with the same &ldquo;seniority&rdquo; shall be broken in favor of the first such officer to arrive at the meeting.
 
 #### SUBSECTION A: PRESIDENT
 
 The President shall be the official representative of the organization.
 The President shall have the power to convene and preside over the meetings of the Board of Directors and the general membership and prepare the agenda for said meetings.
-By the parliamentary authority, the President, as the presiding officer of any meeting, shall not vote on a motion unless his/her vote will break a tie.
-The President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
+By the parliamentary authority, the President, as the presiding officer of any such meeting, shall not vote on a motion unless their vote will break a tie.
 
 #### SUBSECTION B: VICE PRESIDENT
 
 The Vice President is charged with assisting the President in any reasonable task at the behest of the President.
 The Vice President shall be required to see that standing committee chairpersons are fulfilling their duties.
-The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
-If the President is unable to perform his/her duties, (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of President.
-The President or the Advisor may, when necessary, temporarily grant the powers bestowed upon the President to the Vice President.
 
 #### SUBSECTION C: TREASURER
 
 The Treasurer shall keep detailed record of all monies allotted to and raised by the organization.
 The Treasurer shall also submit all payment requests.
-The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the Board of Directors.
-The Treasurer shall assume the position of Vice President in the event that the Vice President is unable to perform his/her duties (due to leave of absence, resignation, or assumption of Presidency).
-A new Treasurer will be elected in a special election called by the President if a vacancy occurs in this office.
-The President, Vice President, or the Advisor may, when necessary, temporarily grant the powers bestowed upon the Vice President to the Treasurer.
 
 #### SUBSECTION D: SECRETARY
 
-The Secretary shall take minutes and attendance of all meetings of the general body, the Board of Directors, and the Executive Committee and maintain an up-to-date active membership roster.
-The Secretary shall inform all members at least one academic day prior of the all scheduled meetings of the general membership body by email.
+The Secretary shall take minutes and attendance of all meetings of the general body, the Board of Directors and maintain an up-to-date active membership roster.
+The Secretary shall be responsible for sending notice of upcoming meetings to members as required by this Constitution.
 The Secretary shall also assist the Vice President in ensuring that the standing committee chairpersons are fulfilling their duties.
-A new Secretary will be elected in a special election called by the President if a vacancy occurs in this office.
 
 #### SUBSECTION E: HISTORIAN
 
 The Historian is responsible for facilitating the storage and propagation of institutional knowledge across various iterations of the organization and its governing bodies.
-Should the Secretary be absent from a meeting of the general body, the Board of Directors, or the Executive Committee, the Historian shall take minutes and attendance.
+Should the Secretary be absent from a meeting of the general body or the Board of Directors, the Historian shall take minutes and attendance.
 The Historian shall collect and compile information from the Secretary, Director of External Affairs, Director of Marketing, and the Director of Outreach to maintain proper continuity of the activities of the organization.
 The Historian shall also assist, as necessary, those members who occupy the aforementioned positions.
+
 The Historian, unlike all other positions, shall perform their duties for a term of three years so as to be able to provide historical context.
-When possible, the Historian should have previously held at least one other position on the Board of Directors prior to his/her term.
+When possible, the Historian should have previously held at least one other position on the Board of Directors prior to their term.
 A new Historian will be elected in a special election called by the President if a vacancy occurs is in this office.
 The Historian may also be referred to as the Bard.
 
@@ -158,34 +152,37 @@ The Director of Outreach shall interact with the appropriate individuals in othe
 #### SUBSECTION I: UNDERCLASSPERSON MEMBER-AT-LARGE
 
 The Underclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status between G1 and G4 on the Board of Directors and advocating on their behalf.
-The Underclassperson Member-at-Large must fall under one of the aforementioned enrollment statuses.
-The Underclassperson Member-at-Large will chair the Committee on Master&rsquo;s Student Engagement and Activities (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
+The Underclassperson Member-at-Large must fall under one of the aforementioned enrollment statuses and only active members who fall under the aforementioned enrollment statuses may vote in the election of the Underclassperson Member-at-Large.
+
+The Underclassperson Member-at-Large shall be an ex officio member of the Committee on Master&rsquo;s Student Engagement and Activities (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
 
 #### SUBSECTION J: UPPERCLASSPERSON MEMBER-AT-LARGE
 
 The Upperclassperson Member-at-Large is responsible for representing the students in the Department who fall under an enrollment status of G5 on the Board of Directors and advocating on their behalf.
-The Upperclassperson Member-at-Large must have an enrollment status of G5.
-The Upperclassperson Member-at-Large will chair the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
+The Upperclassperson Member-at-Large must have an enrollment status of G5 and only active members with said enrollment status may vote in the election of the Upperclassperson Member-at-Large.
+
+The Upperclassperson Member-at-Large shall be an ex officio member of the Committee on Engagement (enumerated in [Appendix B](#appendix-b-list-of-standing-committees)).
 
 #### SUBSECTION K: COMMITTEE CHAIRS
 
-All chairs of committees formed by members of the organization (as defined in [Article VII](#article-vii-committees)) shall be members ex officio of the Board of Directors unless otherwise specified.
-Should a committee be comprised of at least six members, then the chair of the committee, as per the parliamentary authority, shall not vote on a motion unless his/her vote breaks a tie.
-Committee chairs may also hold a voting position in the Board of Directors.
+All chairs of committees of the organization (as defined in [Article VII](#article-vii-committees)) shall be members of the Board of Directors.
 
-#### SUBSECTION L: GRADUATE STUDENT ORGANIZATION SENATORS
+Each committee shall elect a chair from among its members who are eligible for the office.
 
-GSO Senators for the Department shall be invited to serve as members ex officio of the Board of Directors.
-GSO Senators are elected/appointed as per the guidelines provided by the GSO.
-The organization shall assist in the election of GSO Senators, should it be prompted.
-GSO Senators may also hold a voting position in the Board of Directors.
+Should a committee be comprised of at least six members, then the chair of the committee, as per the parliamentary authority, shall not vote on a motion unless their vote breaks a tie.
+
+#### SUBSECTION L: GRADUATE STUDENT ORGANIZATION SENATORS AND ALTERNATES
+
+GSO Senators for the Department and their alternates shall serve as members of the Board of Directors.
+
+GSO Senators and alternates are elected as per the guidelines provided by the GSO.
+The organization shall assist in their election upon request.
 
 #### SUBSECTION M: DEPARTMENTAL COMMITTEE MEMBERS
 
-At least one student member of each committee of the Department having student members shall be invited to serve as a member ex officio of the Board of Directors.
-Student members of committees of the Department are appointed as per the guidelines provided by the Department.
-The organization shall assist in the nomination of said student members, should it be prompted.
-Student members of committees of the Department may also hold a voting position in the Board of Directors.
+All graduate student member of committees of the Department having shall be members of the Board of Directors.
+Student members of committees of the Department are elected as per the guidelines provided by the Department.
+The organization shall assist in the nomination of said student members upon request.
 
 #### SUBSECTION N: ADVISOR
 
@@ -196,51 +193,68 @@ The Advisor to the organization shall be a faculty member within the Department 
 #### SUBSECTION A: NOMINATION
 
 Any member of the organization may submit nominations to the Historian via email for an active member (as defined in [Article IV](#article-iv-membership)) to be elected to the Board of Directors.
-Any member may submit multiple nominations.
+Any member may submit multiple nominations, subject to the limitations imposed by the parliamentary authority.
 Nomination emails must contain the name of the nominee and the position for which the individual is nominated.
-Nominations may be submitted beginning one month prior to the election, until one week prior to the election.
-The Historian will inform all nominees of their nomination and confirm their intent to serve for each position in which they are nominated.
+Nominations may be submitted in this manner beginning four weeks prior to the election and ending one week prior to the election.
+
+The Historian will inform all nominees of their nomination and confirm their intent and eligibility to serve for each position to which they are nominated.
+In this this Section, the &ldquo;candidates&rdquo; for an office are the nominees for said office who have confirmed their intent to serve if elected to it and who have been confirmed to be eligible to do so.
 
 #### SUBSECTION B: CAMPAIGNING
 
-All confirmed nominees shall be given one week to promote their platforms for all positions for which they are a candidate.
+All candidates shall be given one week to promote their platforms.
 All candidates may submit a statement to the Director of Marketing to be published and made available to all active members no later than four days before the election.
 
 #### SUBSECTION C: VOTING
 
-Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<suo>st</sup> of a given year.
-If a quorum is not met, then the Historian will conduct an electronic election within one week.
+Voting shall be conducted during the annual meeting.
+If a quorum is not met, then election will be conducted electronically within one week.
 Voting shall be conducted by secret ballot.
-The mechanism for deciding an election shall be determined on a case by case basis.
 
-In the case that there is only one candidate on the ballot for a given position, the individual must garner the support of a simple majority &ldquo;yea&rdquo; vote of the active membership present.
+For in person votes, the ballots shall be counted by a minimum of two tellers.
+Candidates shall be ineligible to serve as tellers.
 
-In the case that there exist multiple candidates for a given position, a ranked choice system shall be utilized, wherein each active member shall indicate on their ballot their order of preference among the available candidates, including the possibility to vote for the position to remain vacant.
-The presiding officer (the senior-most member, according to the alphabetical order of ascension given in Section 3 shall preside over the election and shall decide the winners by continuously eliminating the candidates who garner fewer votes than <math><mfrac><mrow><mi mathvariant="italic">100% of the vote</mi></mrow><mrow><mi mathvariant="italic">The number of remaining candidates</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mn>1</mn></math>, until there is clear majority support for a single candidate over the other remaining candidate.
+The option to enter a vote of &ldquo;no confidence&rdquo; shall be included on the ballot for each office.
+If the &ldquo;no confidence&rdquo; option for an office prevails or if their are no candidates for an office, nominations for the office shall be reopened and accepted from the floor and the vote shall be conducted again.
+This process shall be repeated until a candidate is elected to the office.
 
-In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the second choice candidate for the vacant position shall be given the option to take that position, pending the approval of the Board of Directors.
-Should the Board of Directors deem the second choice candidate unfit to serve, the position will be offered to the third person, or considered vacant if necessary.
+In the case that there are multiple candidates for a given position, a ranked choice system shall be utilized, wherein each active member shall indicate on their ballot their order of preference among the available candidates and the &ldquo;no confidence&rdquo; option.
+
+Each ballot shall initially be counted towards the most preferred candidate indicated on the ballot.
+If no candidate has a majority, then the candidate with the fewest votes shall be eliminated and the ballots counted towards them distributed to the most preferred candidate that has not been eliminated, with this process repeating until a single candidate poses a majority.
+Ties for the fewest votes shall result in the elimination of all tied candidates.
+If a tie occurs between all remaining candidates, the number of first preference votes for those candidates shall be used to break the tie.
+Should a tie remain, the number of second preference votes shall be used and so on.
+If a tie still remains, the method of repeated balloting described in the parliamentary authority shall be used to decide amount the remaining candidates until one receives a majority.
+
+In the event that a candidate is successfully elected to two or more positions, the candidate shall choose which position they would prefer to hold, in which case the for the offices the candidate declined shall be recounted, with all candidates who have already accepted another office being eliminated first.
 
 #### SUBSECTION D: TRANSFERAL OF POWER
 
 The outgoing Board of Directors shall, after the election, provide sufficient training and guidance to the incoming Board of Directors.
 
-#### SUBSECTION E: TERM LIMITS
+#### SUBSECTION E: TERMS AND TERM LIMITS
 
-A term shall be defined as a period of time one year in duration (except for the Historian position which shall last three years) during which an elected member of the Board of Directors shall hold their position.
-No member shall be eligible to occupy the same office for more than two consecutive terms if said office is that of President, Vice President, Treasurer, Secretary, or Historian.
+A term is defined to start on June 1<sup>st</sup> of a given year and end on May 31<sup>st</sup> of the following year, except in the cases of
+the Historian&mdash;whose term shall begin on June 1<sup>st</sup> of a given year and end on May 31<sup>st</sup> three years following;
+the chairs of committees of the organization&mdash;whose elections and terms are governed by [Article VII](#article-vii-committees);
+the GSO Senators and their alternates&mdash;whose elections terms are governed by the GSO;
+graduate student members of committees of the department&mdash;whose elections and terms are governed by the Department; and
+the Advisor&mdash;whose serves pursuant to [Article XI](#article-xi-selection-of-a-new-advisor).
+
+If an officer's successor has not been elected by the end of their term, the officer shall continue to serve until their successor has been elected, provided they are otherwise eligible to continue to hold the office, notwithstanding the term limits below.
+
+No member shall be eligible to serve three consecutive terms in the same office if said office is that of President, Vice President, Treasurer, or Secretary.
+No member shall be eligible to serve two consecutive terms in the office of Historian.
 No other positions on the Board of Directors shall be subject to such term limits.
-A term is defined to start on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> of the following year, except in the case of the Historian, whose term shall begin on June 1<sup>st</sup> of a given year, and end on May 31<sup>st</sup> three years following.
 
 ### Section 5: Assignment upon Removal, Resignation or Vacancy
 
-Should a position within the Board of Directors other than the President, Vice President, Treasurer, Secretary, and Historian fall vacant at any time not during an election, then the Board of Directors shall appoint a general voting member, who they deem fit to serve in such a capacity.
+If the President is unable to perform their duties, the Vice President shall assume the position of President until a special election is held for a new President.
+In the event that any other officer elected under [Section 4 of this Article](#section-4-election) is unable to perform their duties, the voting members of the board of directors shall appoint an eligible member to fill said vacancy until a special election is held.
+A special election shall be held within one month of the occurrence of such a vacancy during a regular meeting or a special meeting of the general body.
 
-Should a position within the Board of Directors, at any time not during an election, fall totally vacant, in that no active member is willing or able to fill it, then the duties assigned to that position, disregarding Board of Director voting privileges, shall be designated by the Board of Directors to some member amongst themselves.
-
-If there is at any time a vacancy for the office of President, then the Vice President shall assume the position of President by default, the role of the Vice President correspondingly shall be assumed by the Treasurer, until a special election is held for a new President.
-Should position of the President, Vice President, Treasurer, Secretary, or Historian fall vacant, a special election must be held within a one month period.
-Should the President, Vice President, Treasurer, and Secretary positions all fall vacant after an election, then another full election shall be held, including the position of Historian, regardless of the status of their term.
+The President or the Advisor may, when necessary, temporarily grant the powers bestowed upon the President to the Vice President.
 
 ## ARTICLE VII: COMMITTEES
 
@@ -263,8 +277,10 @@ A special committee shall dissolve at the close of the annual meeting, upon deli
 Committees of the organization shall be open to participation by all active members.
 Committees may be open to participation by non-members at the discretion of the general body, except where otherwise prohibited.
 
-Each committee shall elect a chair from among those members who meet the qualifications unless stipulated otherwise by this Constitution.
-Only active members shall be eligible to chair committees of the organization.
+The voting member of a standing committee shall elect the Chair of the committee during the first meeting of the committee following the conclusion of the Spring Semester, except for the Committee on Friday Afternoon Seminars.
+The Chair of the Committee on Friday Afternoon Seminars shall be elected at the first meeting of the committee following the start of the Fall Semester.
+
+The voting members of a special committee shall elect the chair of the committee during the first meeting of the committee.
 
 ## ARTICLE VIII: MEETINGS
 
@@ -357,7 +373,7 @@ Revocation of membership entails no longer being allowed to participate in or be
 
 ### Section 2: Board Members
 
-Members &mdash; whether voting or non-voting &mdash; of the Board of Directors may be removed from office for cause as provided in the parliamentary authority.
+Members&mdash;whether voting or non-voting&mdash;of the Board of Directors may be removed from office for cause as provided in the parliamentary authority.
 
 ## ARTICLE XI: SELECTION OF A NEW ADVISOR
 
@@ -404,6 +420,8 @@ After the Constitution has been duly reviewed and ratified, it must be submitted
 ## APPENDICES
 
 ### APPENDIX A: AMENDMENTS TO THE CONSTITUTION
+
+<!-- TODO: Finish drafting and revising Appendix A entries for amendments. -->
 
 #### Amendment I
 
