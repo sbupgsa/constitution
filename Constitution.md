@@ -1,6 +1,7 @@
 ---
 title: Constitution
 layout: page
+permalink: /constitution/
 ---
 
 Physics Graduate Student Association at Stony Brook University
