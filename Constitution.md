@@ -195,7 +195,7 @@ Student members of committees of the Department may also hold a voting position 
 
 #### SUBSECTION N: ADVISOR
 
-The Advisor to the organization shall be a faculty member within the Department who is selected as per the guidelines in [Article XI](#article-xi).
+The Advisor to the organization shall be a faculty member within the Department who is selected as per the guidelines in [Article XI](#article-xi-selection-of-a-new-advisor).
 
 ### Section 4: Election
 
@@ -214,7 +214,7 @@ All candidates may submit a statement to the Director of Marketing to be publish
 
 #### SUBSECTION C: VOTING
 
-Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<suo>st</sup> of a given year.
+Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<sup>st</sup> of a given year.
 If a quorum is not met, then the Historian will conduct an electronic election within one week.
 Voting shall be conducted by secret ballot.
 The mechanism for deciding an election shall be determined on a case by case basis.
